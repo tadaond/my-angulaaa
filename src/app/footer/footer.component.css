@@ -1,0 +1,16 @@
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: gray;
+    color: white;
+    text-align: center;
+    border-top: solid black;
+    padding-top:10px;
+    border-radius: 25px 25px 0 0;
+}
+
+.footer p{
+    font-family: 'Times New Roman';
+}
